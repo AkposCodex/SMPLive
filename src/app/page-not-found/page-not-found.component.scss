@@ -1,0 +1,33 @@
+.landing-title {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: black;
+    background: url('../../assets/minecraft.jpeg');
+    svg {
+        width: 90%;
+        height: auto;
+        margin: 2em;
+
+        #live-light{
+            .cls-fill{
+                fill: rgb(146, 23, 23);
+                animation: blink 1.2s ease-in infinite alternate;
+            }
+        }
+    }
+}
+
+.error-message{
+    text-align: center;
+    h1{
+        background-color: black;
+        color: white;
+        margin: 0;
+        font-size: clamp(30px, 60px, 120px);
+    }
+
+    p{
+        font-size: 40px;
+    }
+}

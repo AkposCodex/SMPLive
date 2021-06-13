@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Origins SMP",
+        "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!",
+        "smpMark": "../assets/Origins_SMP_logo.png",
+        "members": [
+            {
+                "name": "Charlie Slimescicle",
+                "origin": "Slime",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            },
+            {
+                "name": "TommyInnit",
+                "origin": "Shit",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            },
+            {
+                "name": "Ph1lZa aka 'Ph1lZa Minecraft'",
+                "origin": "Crowfather",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            },
+            {
+                "name": "Wilbur Soot aka 'Ghostbur'",
+                "origin": "Ghost",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            },
+            {
+                "name": "Niki Nihachu",
+                "origin": "Mermaid",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            },
+            {
+                "name": "Fundy",
+                "origin": "Fox",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            },
+            {
+                "name": "Sneegsnag",
+                "origin": "Atomiton",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            }
+        ]
+    },
+    {
+        "name": "Dream SMP",
+        "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!",
+        "smpMark": "../assets/minecraft.jpeg",
+        "members": [
+            {
+                "name": "Charlie Slimescicle",
+                "origin": "Slime",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            },
+            {
+                "name": "TommyInnit",
+                "origin": "Shit",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            },
+            {
+                "name": "Ph1lZa aka 'Ph1lZa Minecraft'",
+                "origin": "Crowfather",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            },
+            {
+                "name": "Wilbur Soot aka 'Ghostbur'",
+                "origin": "Ghost",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            }
+        ]
+    },
+    {
+        "name": "Earth SMP",
+        "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!",
+        "smpMark": "../assets/earthsmp.png",
+        "members": [
+            {
+                "name": "Charlie Slimescicle",
+                "origin": "Slime",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            }
+        ]
+    },
+    {
+        "name": "Hermitcraft",
+        "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!",
+        "smpMark": "../assets/minecraft.jpeg",
+        "members": {}
+    },
+    {
+        "name": "Lustys World",
+        "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!",
+        "smpMark": "../assets/minecraft.jpeg",
+        "members": {}
+    },
+    {
+        "name": "EPIC SMP",
+        "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!",
+        "smpMark": "../assets/EpicLogo.png",
+        "members": [
+            {
+                "name": "Charlie Slimescicle",
+                "origin": "Slime",
+                "lore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem et culpa eius,ea veritatis optio. Mollitia sed praesentium consectetur iure nihil quo,vero magni ad modi eos, facilis dolorum ab, repellendus quae commodi numquam maiores? Optio magni voluptates quo!"
+            }
+        ]
+    }
+]
